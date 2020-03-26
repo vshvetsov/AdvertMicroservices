@@ -1,0 +1,9 @@
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.deps.json
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.dll
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\bin\Debug\netcoreapp3.1\AdvertApi.Models.pdb
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.csprojAssemblyReference.cache
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.csproj.CoreCompileInputs.cache
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.AssemblyInfoInputs.cache
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.AssemblyInfo.cs
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.dll
+C:\Src\Learn\Bakend\AdvertMicroservices\AdvertApi.Models\obj\Debug\netcoreapp3.1\AdvertApi.Models.pdb
